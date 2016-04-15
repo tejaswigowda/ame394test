@@ -4,7 +4,7 @@ var querystring = require('querystring');
 
 
 /*
- * the callback function triggered when the server recieves a request
+ * the callback function triggered when the server receives a request
  * */
 
 var callback = function (req, res) { // req -> request object; res -> response object
